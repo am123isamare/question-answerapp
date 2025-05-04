@@ -1,0 +1,7 @@
+streamlit
+pdfplumber
+pytesseract
+requests
+pinecone-client
+Pillow
+python-docx
